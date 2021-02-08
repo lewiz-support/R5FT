@@ -13,10 +13,15 @@ NO WARRANTY, NO LIABILITY ASSUMED BY LEWIZ OR ITS DEVELOPERS.
 
 
 All rights reserved
+
 Copyrighted (C) 2021
+
 Author: LEWIZ COMMUNICATIONS, INC.
+
 PO Box 9276
+
 San Jose, CA 95157
+
 email: support@lewiz.com
 
 
