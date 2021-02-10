@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_is_mon: Data mismatch in the InstrIssue stage of CORE2...
+
+CORE2: signal is_ex_ctrl_signals = 11'h440
+==> Correct value is = 11'h400
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

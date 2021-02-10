@@ -1,0 +1,1272 @@
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_tag_sram -> TMR_INST_0: signal tag_data_out = 104'h00000000000000080000020508
+==> Correct value is = 104'h00000000000000080000020008
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

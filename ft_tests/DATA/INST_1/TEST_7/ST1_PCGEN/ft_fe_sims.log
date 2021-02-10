@@ -1,0 +1,1808 @@
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000e0
+==> Correct value is = 64'h00000000800000e0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000e4
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000e8
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001c1
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000e2
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001c5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000f0
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000e4
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001c9
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000f4
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000e6
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001cd
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000f8
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000e8
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d1
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00050000800000fc
+==> Correct value is = 64'h00000000800000e4
+
+CORE1: signal icache_dreq_if_cache[66:64] = 3'h7
+==> Correct value is = 3'h4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000e8
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ea
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000b53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d5
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000e8
+==> Correct value is = 64'h00000000800000e0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000297
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d0
+==> Correct value is = 129'h0000000000000001800000001000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000f0
+==> Correct value is = 64'h00000000800000e8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000bd3
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d9
+==> Correct value is = 129'h0000000000000001800000001000001c8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000f4
+==> Correct value is = 64'h00000000800000ec
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000ec
+==> Correct value is = 64'h00000000800000e4
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h03828293
+==> Correct value is = 32'hf0000fd3
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001d8
+==> Correct value is = 129'h0000000000000001800000001000001c8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000f8
+==> Correct value is = 64'h00000000800000f0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000f0
+==> Correct value is = 64'h00000000800000e8
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h30529073
+==> Correct value is = 32'h00000297
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001e0
+==> Correct value is = 129'h0000000000000001800000001000001d0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h00000000800000fc
+==> Correct value is = 64'h00000000800000f4
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000f4
+==> Correct value is = 64'h00000000800000ec
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00001197
+==> Correct value is = 32'h03828293
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001e8
+==> Correct value is = 129'h0000000000000001800000001000001d8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h0000000080000100
+==> Correct value is = 64'h00000000800000f8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000f8
+==> Correct value is = 64'h00000000800000f0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h15418193
+==> Correct value is = 32'h30529073
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001f0
+==> Correct value is = 129'h0000000000000001800000001000001e0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h0000000080000104
+==> Correct value is = 64'h00000000800000fc
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000f8
+==> Correct value is = 64'h00000000800000f0
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h15418193
+==> Correct value is = 32'h30529073
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001f0
+==> Correct value is = 129'h0000000000000001800000001000001e0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal icache_dreq_if_cache.vaddr = 64'h0000000080000104
+==> Correct value is = 64'h0000000080000100
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000fc
+==> Correct value is = 64'h00000000800000f4
+
+CORE1: signal fetch_entry_if_id.instruction = 32'hb7718213
+==> Correct value is = 32'h00001197
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001f8
+==> Correct value is = 129'h0000000000000001800000001000001e8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h00000000800000fc
+==> Correct value is = 64'h00000000800000f8
+
+CORE1: signal fetch_entry_if_id.instruction = 32'hb7718213
+==> Correct value is = 32'h15418193
+
+CORE1: signal fetch_entry_if_id.ex = 129'h0000000000000001800000001000001f8
+==> Correct value is = 129'h0000000000000001800000001000001f0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h0000000080000100
+==> Correct value is = 64'h00000000800000f8
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'h15418193
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h0000000000000001800000001000001f0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h0000000080000100
+==> Correct value is = 64'h00000000800000fc
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hb7718213
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h0000000000000001800000001000001f8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.address = 64'h0000000080000100
+==> Correct value is = 64'h00000000800000fc
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hb7718213
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h0000000000000001800000001000001f8
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_valid_if_id = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000f53
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000201
+==> Correct value is = 129'h000000000000000180000000100000200
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE1...
+
+CORE1: signal fetch_entry_if_id.instruction = 32'h00000000
+==> Correct value is = 32'hf0000fd3
+
+CORE1: signal fetch_entry_if_id.ex = 129'h000000000000000180000000100000209
+==> Correct value is = 129'h000000000000000180000000100000208
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

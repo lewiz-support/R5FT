@@ -1,0 +1,16 @@
+***********FAULT_DETECTED***********
+ft_cm_mon: Data mismatch in the InstrCommit stage of CORE1...
+
+CORE1: signal waddr_commit_id[1] = 3'h1a
+==> Correct value is = 3'h19
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_cm_mon: Data mismatch in the InstrCommit stage of CORE1...
+
+CORE1: signal waddr_commit_id[1] = 3'h1a
+==> Correct value is = 3'h0a
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE0...
+
+CORE0: signal fetch_entry_if_id.address = 64'h0000000380000970
+==> Correct value is = 64'h0000000080000970
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

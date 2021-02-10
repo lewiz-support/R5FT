@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_is_mon: Data mismatch in the InstrIssue stage of CORE2...
+
+CORE2: signal branch_predict_id_ex.predict_address = 64'h88000000800006a2
+==> Correct value is = 64'h00000000800006a2
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

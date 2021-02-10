@@ -1,0 +1,16 @@
+***********FAULT_DETECTED***********
+ft_l15_mon: Data mismatch in the L15_Module stage...
+
+L15 -> l15_pipeline_ft_wrapper -> TMR_INST_0: signal l15_cpxencoder_data_0 = 64'h5468697320697313
+==> Correct value is = 64'h5468697320697320
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l15_mon: Data mismatch in the L15_Module stage...
+
+L15 -> l15_pipeline_ft_wrapper -> TMR_INST_0: signal l15_cpxencoder_data_0 = 64'h5468697320697313
+==> Correct value is = 64'h5468697320697320
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

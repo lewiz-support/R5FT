@@ -1,0 +1,16 @@
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE0...
+
+CORE0: signal fetch_entry_if_id.branch_predict = 67'h100000000800006a2
+==> Correct value is = 67'h200000000800006a2
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE0...
+
+CORE0: signal fetch_entry_if_id.branch_predict = 67'h100000000800006a2
+==> Correct value is = 67'h200000000800006a2
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

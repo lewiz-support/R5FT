@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_config_regs -> TMR_INST_1: signal noc2_valid_out_1 = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

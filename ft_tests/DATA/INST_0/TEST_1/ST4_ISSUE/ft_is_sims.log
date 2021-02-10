@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_is_mon: Data mismatch in the InstrIssue stage of CORE0...
+
+CORE0: signal fu_data_id_ex.fu = 4'h2
+==> Correct value is = 4'h3
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

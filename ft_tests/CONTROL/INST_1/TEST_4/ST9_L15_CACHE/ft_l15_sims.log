@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_l15_mon: Data mismatch in the L15_Module stage...
+
+L15 -> l15_pipeline_ft_wrapper -> TMR_INST_1: signal l15_dcache_val_s2_1 = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

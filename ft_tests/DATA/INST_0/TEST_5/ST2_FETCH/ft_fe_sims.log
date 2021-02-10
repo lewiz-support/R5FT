@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_fe_mon: Data mismatch in the FrontEnd stage of CORE0...
+
+CORE0: signal fetch_entry_if_id.instruction = 32'h0513459d
+==> Correct value is = 32'h0517459d
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

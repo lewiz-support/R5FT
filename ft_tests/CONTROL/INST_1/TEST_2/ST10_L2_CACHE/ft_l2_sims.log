@@ -1,0 +1,992 @@
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_pipe1 -> TMR_INST_1: signal state_data_in_p1_1 = 66'h030000000000041c0
+==> Correct value is = 66'h030000000000001c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_l2_mon: Data mismatch in the L2_Module stage...
+
+L2 -> l2_state_sram -> TMR_INST_1: signal state_data_out_1 = 66'h030000000282490c0
+==> Correct value is = 66'h030000000282050c0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

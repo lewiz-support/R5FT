@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_l1_ic_mon: Data mismatch in the L1_InstrCache stage of CORE2...
+
+CORE2: signal i_cache_subsystem.icache_dreq_o.data = 32'h45c1d0d1
+==> Correct value is = 32'h45c1d0df
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

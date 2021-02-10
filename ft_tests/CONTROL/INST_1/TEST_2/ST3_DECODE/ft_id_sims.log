@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_id_mon: Data mismatch in the InstrDecode stage of CORE1...
+
+CORE1: signal issue_entry_id_issue.valid = 1'b1
+==> Correct value is = 1'b0
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

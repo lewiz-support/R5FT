@@ -1,0 +1,32 @@
+***********FAULT_DETECTED***********
+ft_ex_mon: Data mismatch in the InstrExecute stage of CORE2...
+
+CORE2: signal flu_result_ex_id = 64'h8800000000000007
+==> Correct value is = 64'h0000000000000007
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_ex_mon: Data mismatch in the InstrExecute stage of CORE2...
+
+CORE2: signal dcache_req_ports_ex_cache.data_wdata = 64'h8800000000000007
+==> Correct value is = 64'h0000000000000007
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_ex_mon: Data mismatch in the InstrExecute stage of CORE2...
+
+CORE2: signal load_result_ex_id = 64'h8800000000000007
+==> Correct value is = 64'h0000000000000007
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_ex_mon: Data mismatch in the InstrExecute stage of CORE2...
+
+CORE2: signal load_result_ex_id = 64'h8800000000000007
+==> Correct value is = 64'h0000000000000007
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

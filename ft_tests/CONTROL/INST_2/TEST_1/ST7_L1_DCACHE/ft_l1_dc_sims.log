@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_l1_dc_mon: Data mismatch in the L1_DataCache stage of CORE2...
+
+CORE2: signal i_cache_subsystem.dcache_adapter_me.dreq = 1'b0
+==> Correct value is = 1'b1
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
