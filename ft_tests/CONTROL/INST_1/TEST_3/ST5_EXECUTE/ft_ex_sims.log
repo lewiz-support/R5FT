@@ -1,0 +1,8 @@
+***********FAULT_DETECTED***********
+ft_ex_mon: Data mismatch in the InstrExecute stage of CORE1...
+
+CORE1: signal ex_vld_ex_id = 5'h12
+==> Correct value is = 5'h10
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+

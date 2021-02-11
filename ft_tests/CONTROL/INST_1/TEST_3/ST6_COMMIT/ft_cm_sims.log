@@ -1,0 +1,16 @@
+***********FAULT_DETECTED***********
+ft_cm_mon: Data mismatch in the InstrCommit stage of CORE1...
+
+CORE1: signal csr_op_commit_csr = 7'h0a
+==> Correct value is = 7'h00
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
+***********FAULT_DETECTED***********
+ft_cm_mon: Data mismatch in the InstrCommit stage of CORE1...
+
+CORE1: signal csr_op_commit_csr = 7'h0a
+==> Correct value is = 7'h00
+
+==> Fault Tolerant Logic is enabled so continue the simulation...
+
